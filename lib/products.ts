@@ -156,7 +156,7 @@ export const mates: Product[] = [
 export const varios: Product[] = [
   {
     id: "bombilla-acero",
-    name: "Bombilla Acero Inoxidable",
+    name: "Bombilla cuchara Acero inoxidable",
     category: "bombilla",
     price: 4500,
     stock: true,

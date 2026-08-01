@@ -37,7 +37,7 @@ export default function HomePage() {
           }
         />
         <ProductSection id="mates" title="Mates" products={mates} />
-        <ProductSection id="varios" title="varios" products={varios} />
+        <ProductSection id="varios" title="Varios" products={varios} />
         {/*<ProductSection id="merchandising" title="Merchandising" products={merchandising} />*/}
         <AboutSection />
         <ContactSection />
