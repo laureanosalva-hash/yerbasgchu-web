@@ -5,11 +5,11 @@ import { ShoppingBag, Menu, X } from "lucide-react"
 import { useCart } from "@/lib/cart-context"
 
 const NAV_LINKS = [
-//  { href: "#combos", label: "Combos" },
+  { href: "#combos", label: "Combos" },
   { href: "#yerbas", label: "Yerbas" },
   { href: "#mates", label: "Mates" },
   { href: "#bombillas", label: "Bombillas" },
-  { href: "#merchandising", label: "Merchandising" },
+//  { href: "#merchandising", label: "Merchandising" },
   { href: "#nosotros", label: "Nosotros" },
   { href: "#contacto", label: "Contacto" },
 ]
