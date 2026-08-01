@@ -128,17 +128,17 @@ export const yerbas: Product[] = [
 export const mates: Product[] = [
   {
     id: "mate-hexagonal",
-    name: "Mate Hexagonal con grabado",
+    name: "Mate Hexagonal con grabado + Bombilla acero inox",
     category: "mate",
-    price: 9000,
+    price: 10000,
     stock: true,
     image: "mate1.jpeg",
   },
   {
     id: "mate-perita",
-    name: "Mate Perita con grabado",
+    name: "Mate Perita con grabado + Bombilla acero inox",
     category: "mate",
-    price: 7000,
+    price: 10000,
     stock: true,
     image: "mate2.jpeg",
   },
