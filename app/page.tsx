@@ -5,7 +5,7 @@ import { ProductSection } from "@/components/product-section"
 import { AboutSection } from "@/components/about-section"
 import { ContactSection } from "@/components/contact-section"
 import { CartPanel } from "@/components/cart-panel"
-import { yerbas, mates, bombillas, merchandising } from "@/lib/products"
+import { yerbas, mates, varios, merchandising } from "@/lib/products"
 
 export default function HomePage() {
   return (
@@ -37,7 +37,7 @@ export default function HomePage() {
           }
         />
         <ProductSection id="mates" title="Mates" products={mates} />
-        <ProductSection id="bombillas" title="Bombillas" products={bombillas} />
+        <ProductSection id="varios" title="varios" products={varios} />
         {/*<ProductSection id="merchandising" title="Merchandising" products={merchandising} />*/}
         <AboutSection />
         <ContactSection />

@@ -165,7 +165,7 @@ export const varios: Product[] = [
   {
     id: "luces-materas",
     name: "Luces materas",
-    category: "luces-materas",
+    category: "luces",
     price: 3500,
     stock: true,
     image: "/luces.jpeg",
