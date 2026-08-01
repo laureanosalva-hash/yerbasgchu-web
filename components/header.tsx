@@ -8,7 +8,7 @@ const NAV_LINKS = [
   { href: "#combos", label: "Combos" },
   { href: "#yerbas", label: "Yerbas" },
   { href: "#mates", label: "Mates" },
-  { href: "#bombillas", label: "Bombillas" },
+  { href: "#varios", label: "Varios" },
 //  { href: "#merchandising", label: "Merchandising" },
   { href: "#nosotros", label: "Nosotros" },
   { href: "#contacto", label: "Contacto" },

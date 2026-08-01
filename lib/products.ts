@@ -152,8 +152,8 @@ export const mates: Product[] = [
   },
 ]
 
-// 4. BOMBILLAS (fixed price)
-export const bombillas: Product[] = [
+// 4. VARIOS (fixed price)
+export const varios: Product[] = [
   {
     id: "bombilla-acero",
     name: "Bombilla Acero Inoxidable",
@@ -161,6 +161,14 @@ export const bombillas: Product[] = [
     price: 4500,
     stock: true,
     image: "/bombilla.jpeg",
+  },
+  {
+    id: "luces-materas",
+    name: "Luces materas",
+    category: "luces-materas",
+    price: 3500,
+    stock: true,
+    image: "/luces.jpeg",
   },
   
 ]
@@ -205,6 +213,6 @@ export const allProducts: Product[] = [
   ...combos,
   ...yerbas,
   ...mates,
-  ...bombillas,
+  ...varios,
   ...merchandising,
 ]
