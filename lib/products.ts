@@ -150,6 +150,38 @@ export const mates: Product[] = [
     stock: true,
     image: "mate3.jpeg",
   },
+  {
+    id: "mate-torpedo",
+    name: "Mate Torpedo",
+    category: "mate",
+    price: 16000,
+    stock: true,
+    image: "torpedo.jpg",
+  },
+  {
+    id: "mate-imperial",
+    name: "Mate Imperial",
+    category: "mate",
+    price: 16000,
+    stock: true,
+    image: "imperial.jpg",
+  },
+  {
+    id: "mate-imperial1",
+    name: "Mate Imperial 1.2",
+    category: "mate",
+    price: 16000,
+    stock: true,
+    image: "imperial1.jpg",
+  },
+  {
+    id: "mate-imperial2",
+    name: "Mate Imperial 2.0",
+    category: "mate",
+    price: 16000,
+    stock: true,
+    image: "imperial2.jpg",
+  },
 ]
 
 // 4. VARIOS (fixed price)
