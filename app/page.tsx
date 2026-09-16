@@ -1,6 +1,6 @@
 import { Header } from "@/components/header"
 import { Hero } from "@/components/hero"
-import { CombosSection } from "@/components/combos-section"
+//import { CombosSection } from "@/components/combos-section"
 import { ProductSection } from "@/components/product-section"
 import { AboutSection } from "@/components/about-section"
 import { ContactSection } from "@/components/contact-section"

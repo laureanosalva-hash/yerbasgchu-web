@@ -1,7 +1,7 @@
 "use client"
 
 import Image from "next/image"
-import { combos } from "@/lib/products"
+//import { combos } from "@/lib/products"
 import { MessageCircle } from "lucide-react"
 import { WHATSAPP_NUMBER } from "@/lib/config"
 
