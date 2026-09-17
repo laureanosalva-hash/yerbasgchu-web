@@ -91,7 +91,7 @@ export const yerbas: Product[] = [
     name: "Rei Verde",
     category: "yerba",
     brand: "Rei Verde",
-    costPrice: 7400,
+    costPrice: 5000,
     stock: true,
     image: "/reiverde.jpeg",
   },
